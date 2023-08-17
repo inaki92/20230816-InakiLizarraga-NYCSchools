@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">20230816-InakiLizarraga-NYCSchools</string>
+    <string name="hint_search_query">Enter ZIP CODE</string>
+</resources>
